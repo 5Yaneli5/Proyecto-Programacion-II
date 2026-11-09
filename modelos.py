@@ -1,4 +1,4 @@
-#Ahora un Libro "tiene" una lista de objetos Resena (clase auxiliar) y usa sus métodos
+#Ahora un Libro "tiene" una lista de objetos Reseña (clase auxiliar) y usa sus métodos
 
 
 #Clase auxiliar (composición): representa una reseña de un libro
